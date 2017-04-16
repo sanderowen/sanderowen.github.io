@@ -1,12 +1,43 @@
 body {
   margin: auto;
   max-width: 980px;
+  font-family: sans-serif;
+}
+#header {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  border-bottom: 2px solid #cfccd0;
 }
 #headline {
-  font-family: sans-serif;
   font-weight: bold;
   font-size: 67px;
   text-align: center;
-  padding-top: 30px; 
-  padding-bottom: 30px;
+  padding-bottom: 60px;
+}
+nav {
+ text-align: center;
+ font-size: 15px;
+}
+.navigation {
+  list-style-type: none;
+  display: inline;
+  padding-right: 30px;
+}
+.link {
+    text-decoration: none;
+    color: #cfccd0;
+}
+.current {
+    color: black;
+    text-decoration: none;
+}
+.current:hover {
+	color: #676664;
+}
+.link:hover {
+	color:  #676664;
+}
+a:hover {
+  color: #cfccd0; 
+  text-decoration: none;
 }
