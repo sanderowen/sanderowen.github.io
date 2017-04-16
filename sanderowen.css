@@ -2,3 +2,11 @@ body {
   margin: auto;
   max-width: 980px;
 }
+#headline {
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 67px;
+  text-align: center;
+  padding-top: 30px; 
+  padding-bottom: 30px;
+}
