@@ -3,6 +3,12 @@ body {
   max-width: 980px;
   font-family: sans-serif;
 }
+.text {
+  line-height: 20px;
+  font-family: sans-serif;
+  font-size: 15px;
+  color: #676664;
+}
 #header {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -40,4 +46,11 @@ nav {
 a:hover {
   color: #cfccd0; 
   text-decoration: none;
+}
+#kudo {
+  font-style: italic;
+}
+#name {
+  color: black;
+  padding-top: 15px;
 }
