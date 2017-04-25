@@ -48,21 +48,56 @@ a:hover {
   text-decoration: none;
 }
 .tableContainer {
+  display: table;
   padding-left: 60px;
   padding-right: 60px;
+  padding-top: 60px;
+  width: 860px; 
+}
+.tableRow {
+  display: table-row;
+}
+#quote {
+    float: left;
+}
+aside {
+  float: right;
 }
 #sub-header {
   padding-top: 30px;
   padding-bottom: 30px;
 }
-.tableDisplay {
-  width: 490px;
-}
 #kudo {
   font-style: italic;
+  width: 370px;
 }
 #name {
   color: black;
   padding-top: 15px;
   font-weight: bold;
+}
+#email {
+  border: 2px solid #cfccd0;
+  width: 185px;
+  height: 20px;
+}
+#subscribe {
+  border: none;
+  background-color: #cfccd0; 
+}
+#content {
+  padding-top: 30px;
+  padding-bottom: 60px;
+}
+footer {
+  border-top: 2px solid #cfccd0;
+  margin-bottom: 60px;
+}
+#footer-text {
+  text-align: center;
+  line-height: 20px;
+  font-family: sans-serif;
+  font-size: 12px;
+  color: #676664;
+  padding-top: 60px;
 }
