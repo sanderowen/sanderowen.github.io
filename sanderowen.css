@@ -49,10 +49,6 @@ a:hover {
 }
 .tableContainer {
   display: table;
-  padding-left: 60px;
-  padding-right: 60px;
-  padding-top: 60px;
-  width: 860px; 
 }
 .tableRow {
   display: table-row;
@@ -88,6 +84,11 @@ aside {
 #content {
   padding-top: 30px;
   padding-bottom: 60px;
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-top: 60px;
+  width: 860px; 
+
 }
 footer {
   border-top: 2px solid #cfccd0;
