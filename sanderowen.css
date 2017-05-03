@@ -95,9 +95,11 @@ footer {
 }
 #footer-text {
   text-align: center;
-  line-height: 20px;
-  font-family: sans-serif;
-  font-size: 12px;
-  color: #676664;
   padding-top: 30px;
+}
+#contact {
+  text-align: center;
+}
+#drumquake-logo {
+  height: 60px;
 }
