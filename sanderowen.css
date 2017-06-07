@@ -83,12 +83,14 @@ aside {
   background-color: #cfccd0; 
 }
 #content {
-  padding-top: 30px;
   padding-bottom: 60px;
   padding-top: 60px;
 }
 #video {
   padding-top: 60px;
+  padding-bottom: 60px;
+  width: 980px;
+  height: 551.25px;
 }
 footer {
   border-top: 2px solid #cfccd0;
