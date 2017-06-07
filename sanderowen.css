@@ -86,7 +86,9 @@ aside {
   padding-top: 30px;
   padding-bottom: 60px;
   padding-top: 60px;
-
+}
+#video {
+  padding-top: 60px;
 }
 footer {
   border-top: 2px solid #cfccd0;
@@ -102,4 +104,7 @@ footer {
 }
 #drumquake-logo {
   height: 60px;
+}
+.image {
+  max-width: 980px;
 }
