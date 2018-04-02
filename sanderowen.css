@@ -9,6 +9,15 @@ body {
   font-size: 15px;
   color: #676664;
 }
+#show-date {
+  font-style: italic;
+}
+#show-city {
+  font-weight: bold;
+}
+#show-ticket {
+  text-decoration: underline;
+}
 #header {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -53,6 +62,10 @@ a:hover {
 }
 .tableRow {
   display: table-row;
+}
+.tableCell {
+  display: table-cell;
+  width: 150px;
 }
 #quote {
     float: left;
