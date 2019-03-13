@@ -125,3 +125,12 @@ footer {
   width: 50%;
   padding-top: 60px;
 }
+#bio-photo {
+width: 460px;
+margin-left: 30px;
+margin-bottom: 60px;
+}
+#bio-text {
+width: 460px;
+margin-right: 30px;
+}
