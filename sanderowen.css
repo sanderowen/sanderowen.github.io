@@ -112,11 +112,8 @@ footer {
   text-align: center;
   padding-top: 30px;
 }
-#contact {
+#support {
   text-align: center;
-}
-#drumquake-logo {
-  height: 60px;
 }
 .image {
   display: block;
@@ -124,11 +121,6 @@ footer {
   margin-right: auto;
   width: 50%;
   padding-top: 60px;
-}
-#bio-photo {
-width: 460px;
-margin-left: 30px;
-margin-bottom: 60px;
 }
 #bio-text {
 margin-top: 60px;
