@@ -9,15 +9,6 @@ body {
   font-size: 15px;
   color: #676664;
 }
-#italic {
-  font-style: italic;
-}
-#bold {
-  font-weight: bold;
-}
-#underline {
-  text-decoration: underline;
-}
 #header {
   padding-top: 60px;
   padding-bottom: 60px;
