@@ -110,3 +110,12 @@ footer {
   width: 50%;
   padding-top: 60px;
 }
+
+/* Emphasis (reset.css strips the browser defaults) */
+em {
+  font-style: italic;
+}
+strong,
+.bold {
+  font-weight: bold;
+}
