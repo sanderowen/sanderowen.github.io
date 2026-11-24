@@ -9,13 +9,13 @@ body {
   font-size: 15px;
   color: #676664;
 }
-#show-date {
+#italic {
   font-style: italic;
 }
-#show-city {
+#bold {
   font-weight: bold;
 }
-#show-ticket {
+#underline {
   text-decoration: underline;
 }
 #header {
